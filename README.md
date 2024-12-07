@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the contributors of the libraries used in this project.
 
 ## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries or feedback, please contact me.
 ```
 
 ### Instructions to Use:
