@@ -1,5 +1,4 @@
 
-```markdown
 # Real-Time Fraud Detection System for Financial Transactions
 
 ## Description
@@ -22,11 +21,10 @@ The dataset used in this project is a synthetic representation of mobile money t
 ## Installation
 To run this project, clone the repository and install the required libraries:
 
-```bash
 git clone https://github.com/yourusername/fraud_detection_project.git
 cd fraud_detection_project
 pip install -r requirements.txt
-```
+
 
 ## Usage
 1. Open the Jupyter Notebook file (`fraud_detection_notebook.ipynb`) in your preferred environment (e.g., Jupyter Notebook, Jupyter Lab, or VS Code).
