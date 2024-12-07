@@ -49,9 +49,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any inquiries or feedback, please contact me.
 ```
-
-### Instructions to Use:
-1. Copy the content above.
-2. Create a file named `README.md` in your project directory.
-3. Paste the content into the file and save it.
-4. Modify the placeholder values (e.g., your GitHub username, email) with your actual details.
